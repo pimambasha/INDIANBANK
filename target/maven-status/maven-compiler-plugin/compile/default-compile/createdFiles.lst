@@ -1,0 +1,7 @@
+INDIANBANK\dao\JobDao.class
+INDIANBANK\entity\Entity.class
+INDIANBANK\resource\JobResource.class
+INDIANBANK\JAXRSConfiguration.class
+INDIANBANK\dao\Dao.class
+INDIANBANK\business\JobBusiness.class
+INDIANBANK\entity\Job.class
